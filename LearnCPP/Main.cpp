@@ -4,12 +4,9 @@
 //
 
 #include <iostream>
+#include "Functions.h"
 
 using namespace std;
-
-//Function prototypes
-int readNumber();
-void writeAnswer(int sum);
 
 //Main program loop
 int main()
